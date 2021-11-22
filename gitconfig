@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = stefan.barolin@gmail.com
+	name = Stefan Barolin
